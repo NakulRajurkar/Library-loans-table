@@ -1,4 +1,5 @@
 -- Library borrowing records and long loans view
+-- View containing loans longer than 14 days
 -- Library borrowing records
 -- Run the whole script in DBeaver with Alt+X (Execute SQL Script).
 
