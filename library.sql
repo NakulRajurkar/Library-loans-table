@@ -1,3 +1,4 @@
+-- Library borrowing records and long loans view
 -- Library borrowing records
 -- Run the whole script in DBeaver with Alt+X (Execute SQL Script).
 
